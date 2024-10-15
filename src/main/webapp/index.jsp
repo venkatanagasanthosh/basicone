@@ -90,7 +90,7 @@
         <h2>Registration Form</h2>
         <form action="#" method="post">
             <div class="form-group">
-                <label for="username">Username</label>
+                <label for="username">Name</label>
                 <input type="text" id="username" name="username" required>
             </div>
             <div class="form-group">
