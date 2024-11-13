@@ -78,11 +78,6 @@
 
 <div id="message1" class="message">Idigo inkosari ala annav anukkooo chepthuna tarni, em cheyyalenu anuko nenu sareley odilestaaa😊</div>
 <div id="message2" class="message">"Bongu em kaadu nuvvey ankunnav gaaa, sarley em chestam elano aneskunnav ga, front cam open chey nee face ki parllel ga petkoni chudu kanipistadi
-
-
-
-
-
 naku konchem eggastralu ekkuva kada...." ✨</div>
 
 </body>
