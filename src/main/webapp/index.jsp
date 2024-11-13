@@ -24,6 +24,7 @@
             font-size: 1.1em;
             color: #7a00cc;
             cursor: pointer;
+            text-decoration: underline;
         }
         .buttons {
             margin-top: 60px;
@@ -49,6 +50,14 @@
         }
     </style>
     <script>
+        // Function for smooth scrolling to the buttons section
+        function scrollToButtons() {
+            document.querySelector('.buttons').scrollIntoView({
+                behavior: 'smooth'
+            });
+        }
+
+        // Function to show the selected message
         function showMessage(id) {
             document.getElementById("message1").style.display = "none";
             document.getElementById("message2").style.display = "none";
@@ -60,15 +69,15 @@
 
 <h1>Welcome, Tarnii! 💕</h1>
 <p>There's something special waiting for you below...</p>
-<div class="scroll-down">Scroll down to see more! ⬇️</div>
+<div class="scroll-down" onclick="scrollToButtons()">Scroll down to see more! ⬇️</div>
 
 <div class="buttons">
-    <button onclick="showMessage('message1')">Baney Eggastralu*****</button>
-    <button onclick="showMessage('message2')">Sarsarle</button>
+    <button onclick="showMessage('message1')">Click Here for Surprise 1</button>
+    <button onclick="showMessage('message2')">Click Here for Surprise 2</button>
 </div>
 
-<div id="message1" class="message">"Deeniki nduku inta overactionn chey oka past inta worst example ni set chestada anipistadi" 😊</div>
-<div id="message2" class="message">"Ponile ra nayana sarsarley andi ante ok manam anna mataki idi konchem ayina ok cheppindi anipistadi" ✨</div>
+<div id="message1" class="message">"You make my heart smile every day!" 😊</div>
+<div id="message2" class="message">"With you, every moment is magical!" ✨</div>
 
 </body>
 </html>
