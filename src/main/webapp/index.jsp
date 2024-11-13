@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome, Tarnii! ❤️</title>
+    <title>Welcome, Tarnii! </title>
     <style>
         body {
             background-color: #f0e6ff;
@@ -67,17 +67,17 @@
 </head>
 <body>
 
-<h1>Welcome, Tarnii! 💕</h1>
-<p>There's something special waiting for you below...</p>
+<h1>Welcome, Tarnii! 💕, good evening</h1>
+<p>This is for the special person for whom i met 6-7 months back ...</p>
 <div class="scroll-down" onclick="scrollToButtons()">Scroll down to see more! ⬇️</div>
 
 <div class="buttons">
-    <button onclick="showMessage('message1')">Click Here for Surprise 1</button>
-    <button onclick="showMessage('message2')">Click Here for Surprise 2</button>
+    <button onclick="showMessage('message1')">Nuv antav ga baney extralu**** oka sari click chey</button>
+    <button onclick="showMessage('message2')">Emo tani neeku worlds beatiful girl ni chudali anipisthund then clk this</button>
 </div>
 
-<div id="message1" class="message">"You make my heart smile every day!" 😊</div>
-<div id="message2" class="message">"With you, every moment is magical!" ✨</div>
+<div id="message1" class="message">Idigo inkosari ala annav anukkooo chepthuna tarni, em cheyyalenu nenu sareley odilesey😊</div>
+<div id="message2" class="message">"Bongu em kaadu nuvvey ankunnav gaaa, sarley em chestam elano aneskunnav ga, front cam open chey nee face ki parllel ga petkoni chudu kanipistav emo" ✨</div>
 
 </body>
 </html>
