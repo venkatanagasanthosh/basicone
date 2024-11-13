@@ -63,12 +63,12 @@
 <div class="scroll-down">Scroll down to see more! ⬇️</div>
 
 <div class="buttons">
-    <button onclick="showMessage('message1')">Click Here for Surprise 1</button>
-    <button onclick="showMessage('message2')">Click Here for Surprise 2</button>
+    <button onclick="showMessage('message1')">Baney Eggastralu*****</button>
+    <button onclick="showMessage('message2')">Sarsarle</button>
 </div>
 
-<div id="message1" class="message">"You make my heart smile every day!" 😊</div>
-<div id="message2" class="message">"With you, every moment is magical!" ✨</div>
+<div id="message1" class="message">"Deeniki nduku inta overactionn chey oka past inta worst example ni set chestada anipistadi" 😊</div>
+<div id="message2" class="message">"Ponile ra nayana sarsarley andi ante ok manam anna mataki idi konchem ayina ok cheppindi anipistadi" ✨</div>
 
 </body>
 </html>
