@@ -76,7 +76,7 @@
     <button onclick="showMessage('message2')">Emo tani neeku worlds beatiful girl ni chudali anipisthund then clk this</button>
 </div>
 
-<div id="message1" class="message">Idigo inkosari ala annav anukkooo chepthuna tarni, em cheyyalenu nenu sareley odilesey😊</div>
+<div id="message1" class="message">Idigo inkosari ala annav anukkooo chepthuna tarni, em cheyyalenu anuko nenu sareley odilestaaa😊</div>
 <div id="message2" class="message">"Bongu em kaadu nuvvey ankunnav gaaa, sarley em chestam elano aneskunnav ga, front cam open chey nee face ki parllel ga petkoni chudu kanipistav emo" ✨</div>
 
 </body>
