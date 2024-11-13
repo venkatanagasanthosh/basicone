@@ -73,11 +73,17 @@
 
 <div class="buttons">
     <button onclick="showMessage('message1')">Nuv antav ga baney extralu**** oka sari click chey</button>
-    <button onclick="showMessage('message2')">Emo tani neeku worlds beatiful girl ni chudali anipisthund then clk this</button>
+    <button onclick="showMessage('message2')">Tarni, neeku worlds beautiful girl ni chudali anipisthund then clk this</button>
 </div>
 
 <div id="message1" class="message">Idigo inkosari ala annav anukkooo chepthuna tarni, em cheyyalenu anuko nenu sareley odilestaaa😊</div>
-<div id="message2" class="message">"Bongu em kaadu nuvvey ankunnav gaaa, sarley em chestam elano aneskunnav ga, front cam open chey nee face ki parllel ga petkoni chudu kanipistav emo" ✨</div>
+<div id="message2" class="message">"Bongu em kaadu nuvvey ankunnav gaaa, sarley em chestam elano aneskunnav ga, front cam open chey nee face ki parllel ga petkoni chudu kanipistadi
+
+
+
+
+
+naku konchem eggastralu ekkuva kada...." ✨</div>
 
 </body>
 </html>
