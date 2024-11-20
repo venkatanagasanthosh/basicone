@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome, Tarnii! </title>
+    <title>Welcome, Sriya! </title>
     <style>
         body {
             background-color: #f0e6ff;
